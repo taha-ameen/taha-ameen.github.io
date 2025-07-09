@@ -20,9 +20,9 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 
 <h3 style="color:#E84A27;"> 2025 </h3>
 
-* [July] I will be giving an invited talk at [INFORMS APS Conference](https://informs-aps.isye.gatech.edu/) in Atlanta, GA.
-* [June] I will be attending [IEEE ISIT](https://2025.ieee-isit.org/) in Ann Arbor, MI.
-* [June] I will be attending the [IISA conference](https://www.intindstat.org/conference2025/index) in Lincoln, NE.
+* [July] I received the Jack Keil Wolf ISIT Student Paper Award for our paper "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)".
+* [July] I gave an invited talk at [INFORMS APS Conference](https://informs-aps.isye.gatech.edu/) in Atlanta, GA.
+* [June] I was a finalist for the Best Student Paper Award in Statistics and Data Science at [IISA conference](https://www.intindstat.org/conference2025/index) in Lincoln, NE.
 * [May] I received the [A.R. "Buck" Knight Fellowship](https://ece.illinois.edu/academics/grad/fellowships/knight) from the ECE department at UIUC.
 * [April] Two papers "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)" and "[Detecting correlation between multiple Gaussian networks](https://arxiv.org/abs/2504.16279)" accepted to ISIT '25.
 
