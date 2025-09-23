@@ -20,6 +20,8 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 
 <h3 style="color:#E84A27;"> 2025 </h3>
 
+* [October] I will be attending the INFORMS Annual Meeting, Oct 26-29 in Atlanta, GA.
+* [October] I will be attending the Cornell ORIE Young Researchers Workshop, Oct 8-10 in Ithaca, NY.
 * [July] I received the Jack Keil Wolf ISIT Student Paper Award for our paper "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)".
 * [July] I gave an invited talk at [INFORMS APS Conference](https://informs-aps.isye.gatech.edu/) in Atlanta, GA.
 * [June] I was a finalist for the Best Student Paper Award in Statistics and Data Science at [IISA conference](https://www.intindstat.org/conference2025/index) in Lincoln, NE.
