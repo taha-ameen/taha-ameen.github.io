@@ -9,20 +9,31 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by Prof. [Bruce Hajek](https://hajek.ece.illinois.edu/). 
 
-My doctoral research involves developing and analyzing algorithms for large-scale random systems, focusing on statistical inference, performance evaluation and information recovery from network data. Specific topics include **graph alignment**, **correlation detection**, and **security of distributed protocols in blockchains**. I've also explored optimizing **resource allocation** in wireless networks during an internship at [Nokia Bell Labs](https://www.nokia.com/bell-labs/). My broader interests include **dynamic matching** and **robust decision-making** in networked environments.
 
-I graduated with B.S. degrees in Electrical Engineering and Mathematics from the [American University of Sharjah](https://www.aus.edu), where I received the President's cup for highest GPA. My research there focused on problems in **control theory, communication networks, and microwave sensing**. I also worked on the **Ising model** during a research internship at [Aalto University](https://www.aalto.fi/en), Finland.
+My research deals with inference, optimization, and decision-making in stochastic networks and matching systems. My PhD work is on problems in **statistical inference** (graph matching and detection of planted structures), **resource allocation in matching markets** (spatial flexibility and multi-type interactions), and **network robustness** (graph matching under adversarial corruption, security of blockchain protocols under message loss). My work has been recognized through multiple departmental fellowships and paper awards, including the [Jack Wolf ISIT Best Student Paper Award (2025)](https://www.itsoc.org/news/2025-jack-keil-wolf-isit-student-paper-award-recipients-named); I was also a finalist for the [IISA Best Student Paper Award (2025)](https://www.intindstat.org/public/conference2025/images/pgrmbook.pdf#page=52.64), and the [INFORMS APS Best Student Paper Award (2024)](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Applied-Probability/Best-Student-Paper-Prize).
+
+I graduated with B.S. degrees in Electrical Engineering and Mathematics from the [American University of Sharjah](https://www.aus.edu), where I received the President's cup for highest GPA. My research there focused on problems in control theory and communication networks. I also worked on the **Ising model** during a research internship at [Aalto University](https://www.aalto.fi/en), Finland.
 
 Outside of work, I enjoy reading, traveling and hiking. I particularly appreciate the US National Parks and aspire to eventually explore all 63!
 
+**I am on the 2025-26 academic job market.**
 
 <h1 style="color:#191970;"> Updates </h1>
 
 <h3 style="color:#E84A27;"> 2025 </h3>
 
-* [October] I will be attending the INFORMS Annual Meeting, Oct 26-29 in Atlanta, GA.
-* [October] I will be attending the Cornell ORIE Young Researchers Workshop, Oct 8-10 in Ithaca, NY.
-* [July] I received the Jack Keil Wolf ISIT Student Paper Award for our paper "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)".
+* [**October**] I will be attending the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/), Oct 26-29 in Atlanta, GA, where I will present my _job market paper_:
+  <br> —&nbsp; [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2716)
+  <br> —&nbsp; Session: Applied Probability in Algorithmic and Operational Networks II
+  <br> —&nbsp; Sunday, Oct 26, 11:30 AM - 11:45 AM @ Building A, Level 4, A405
+
+* My co-author will also present our other work on _flexibility in spatial matching_, immediately after my talk:
+  <br> —&nbsp; [The Uniformity Principle: Optimal Flexibility Allocation in Spatial Matching](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5065)
+  <br> —&nbsp; Session: Applied Probability in Algorithmic and Operational Networks II
+  <br> —&nbsp; Sunday, Oct 26, 11:45 AM - 12:00 PM @ Building A, Level 4, A405
+
+* [October] I will be attending the [Cornell ORIE Young Researchers Workshop](https://www.engineering.cornell.edu/orie/young-researchers-workshop/), Oct 8-10 in Ithaca, NY.
+* [July] I received the Jack Keil Wolf ISIT Student Paper Award for the paper "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)".
 * [July] I gave an invited talk at [INFORMS APS Conference](https://informs-aps.isye.gatech.edu/) in Atlanta, GA.
 * [June] I was a finalist for the Best Student Paper Award in Statistics and Data Science at [IISA conference](https://www.intindstat.org/conference2025/index) in Lincoln, NE.
 * [May] I received the [A.R. "Buck" Knight Fellowship](https://ece.illinois.edu/academics/grad/fellowships/knight) from the ECE department at UIUC.
