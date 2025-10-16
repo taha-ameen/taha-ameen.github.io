@@ -27,8 +27,8 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
   <br> —&nbsp; Session: Applied Probability in Algorithmic and Operational Networks II
   <br> —&nbsp; Sunday, Oct 26, 11:30 AM - 11:45 AM @ Building A, Level 4, A405
 
-* My co-author will also present our other work on _flexibility in spatial matching_, immediately after my talk:
-  <br> —&nbsp; [The Uniformity Principle: Optimal Flexibility Allocation in Spatial Matching](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5065)
+* My co-author will present our other work on _flexibility in spatial matching_, immediately after my talk:
+  <br> —&nbsp; [The Uniformity Principle in Spatial Matching](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5065)
   <br> —&nbsp; Session: Applied Probability in Algorithmic and Operational Networks II
   <br> —&nbsp; Sunday, Oct 26, 11:45 AM - 12:00 PM @ Building A, Level 4, A405
 
