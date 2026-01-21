@@ -20,17 +20,15 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 
 <h1 style="color:#191970;"> Updates </h1>
 
+<h3 style="color:#E84A27;"> 2026 </h3>
+
+* [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) up on arXiv. Co-authors: Flore Sentenac and Sophie Yu
+* [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) up on arXiv.  Co-author: Bruce Hajek
+
+
 <h3 style="color:#E84A27;"> 2025 </h3>
 
-* [**October**] I will be attending the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/), Oct 26-29 in Atlanta, GA, where I will present my _job market paper_:
-  <br> —&nbsp; [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2716)
-  <br> —&nbsp; Session: Applied Probability in Algorithmic and Operational Networks II
-  <br> —&nbsp; Sunday, Oct 26, 11:30 AM - 11:45 AM @ Building A, Level 4, A405
-
-* My co-author will present our other work on _flexibility in spatial matching_, immediately after my talk:
-  <br> —&nbsp; [The Uniformity Principle in Spatial Matching](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=5065)
-  <br> —&nbsp; Session: Applied Probability in Algorithmic and Operational Networks II
-  <br> —&nbsp; Sunday, Oct 26, 11:45 AM - 12:00 PM @ Building A, Level 4, A405
+* [October] I presented our work [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2716) at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)in Atlanta, GA.
 
 * [October] I will be attending the [Cornell ORIE Young Researchers Workshop](https://www.engineering.cornell.edu/orie/young-researchers-workshop/), Oct 8-10 in Ithaca, NY.
 * [July] I received the Jack Keil Wolf ISIT Student Paper Award for the paper "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)".
