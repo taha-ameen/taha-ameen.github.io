@@ -22,8 +22,8 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 
 <h3 style="color:#E84A27;"> 2026 </h3>
 
-* [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) up on arXiv. Co-authors: Flore Sentenac and Sophie Yu
-* [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) up on arXiv.  Co-author: Bruce Hajek
+* [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) up on arXiv.
+* [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) up on arXiv.
 
 
 <h3 style="color:#E84A27;"> 2025 </h3>
