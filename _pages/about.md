@@ -16,14 +16,16 @@ I graduated with B.S. degrees in Electrical Engineering and Mathematics from the
 
 Outside of work, I enjoy reading, traveling and hiking. I particularly appreciate the US National Parks and aspire to eventually explore all 63!
 
-**I am on the 2025-26 academic job market.**
 
 <h1 style="color:#191970;"> Updates </h1>
 
 <h3 style="color:#E84A27;"> 2026 </h3>
 
-* [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) up on arXiv.
-* [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) up on arXiv.
+* [April] I gave an invited talk on our paper [Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes](https://arxiv.org/pdf/2604.02295) at the [Rotman Young Scholar Seminar Series](https://sites.google.com/view/rotmanyoungscholarseminar/seminars?authuser=0).
+* [April] Our paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) is accepted to ISIT '26.
+* [April] New paper [Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes](https://arxiv.org/pdf/2604.02295) up on arXiv. Joint work with Flore Sentenac and Sophie Yu.
+* [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) up on arXiv. Joint work with Flore Sentenac and Sophie Yu.
+* [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) up on arXiv. Joint work with Bruce Hajek.
 
 
 <h3 style="color:#E84A27;"> 2025 </h3>
