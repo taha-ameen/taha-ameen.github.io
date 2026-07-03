@@ -20,33 +20,31 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 <h1 style="color:#191970;"> Updates </h1>
 
 <h3 style="color:#E84A27;"> 2026 </h3>
-
+* [July] I will present our work [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) at the MSOM Conference in Boston, MA and the RMP Conference in Ann Arbor, MI.
+* [June] Our paper [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://arxiv.org/pdf/2405.12293), joint work with Bruce Hajek, was accepted to Operations Research.
+* [June] I received the Outstanding Student Poster Award at the Stochastic Networks Conference.
+* [May] I defended my Ph.D. thesis!
 * [April] I gave an invited talk on our paper [Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes](https://arxiv.org/pdf/2604.02295) at the [Rotman Young Scholar Seminar Series](https://sites.google.com/view/rotmanyoungscholarseminar/seminars?authuser=0).
-* [April] Our paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) is accepted to ISIT '26.
-* [April] New paper [Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes](https://arxiv.org/pdf/2604.02295) up on arXiv. Joint work with Flore Sentenac and Sophie Yu.
-* [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) up on arXiv. Joint work with Flore Sentenac and Sophie Yu.
-* [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) up on arXiv. Joint work with Bruce Hajek.
-
+* [April] Our paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) was accepted to ISIT '26.
+* [April] New paper [Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes](https://arxiv.org/pdf/2604.02295) on arXiv. Joint work with Flore Sentenac and Sophie Yu.
+* [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) on arXiv. Joint work with Flore Sentenac and Sophie Yu.
+* [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) on arXiv. Joint work with Bruce Hajek.
 
 <h3 style="color:#E84A27;"> 2025 </h3>
-
-* [October] I presented our work [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2716) at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/)in Atlanta, GA.
-
-* [October] I will be attending the [Cornell ORIE Young Researchers Workshop](https://www.engineering.cornell.edu/orie/young-researchers-workshop/), Oct 8-10 in Ithaca, NY.
-* [July] I received the Jack Keil Wolf ISIT Student Paper Award for the paper "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)".
-* [July] I gave an invited talk at [INFORMS APS Conference](https://informs-aps.isye.gatech.edu/) in Atlanta, GA.
-* [June] I was a finalist for the Best Student Paper Award in Statistics and Data Science at [IISA conference](https://www.intindstat.org/conference2025/index) in Lincoln, NE.
+* [October] I presented our work [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2716) at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in Atlanta, GA.
+* [October] I attended the [Cornell ORIE Young Researchers Workshop](https://www.engineering.cornell.edu/orie/young-researchers-workshop/), Oct 8-10 in Ithaca, NY.
+* [July] I received the Jack Keil Wolf ISIT Student Paper Award for the paper [Exact random graph matching with multiple graphs](https://www.itsoc.org/honors/wolf-award?__cf_chl_f_tk=AgIfNfaQx18NL0NKxAHz2ePis8E0.V1qnAflWlFMjrg-1783036274-1.0.1.1-btLxEqq5Cy6xifgOdMSHa_5pe5pAtS_YBDLKrqCGoII).
+* [July] I gave an invited talk at the [INFORMS APS Conference](https://informs-aps.isye.gatech.edu/) in Atlanta, GA.
+* [June] I was a finalist for the Best Student Paper Award in Statistics and Data Science at the [IISA Conference](https://www.intindstat.org/conference2025/index) in Lincoln, NE.
 * [May] I received the [A.R. "Buck" Knight Fellowship](https://ece.illinois.edu/academics/grad/fellowships/knight) from the ECE department at UIUC.
-* [April] Two papers "[Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293)" and "[Detecting correlation between multiple Gaussian networks](https://arxiv.org/abs/2504.16279)" accepted to ISIT '25.
-
+* [April] Two papers, [Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293) and [Detecting correlation between multiple Gaussian networks](https://arxiv.org/abs/2504.16279), were accepted to ISIT '25.
 
 <h3 style="color:#E84A27;"> 2024 </h3>
-
 * [October] I was a finalist for the INFORMS Applied Probability Society's [Best Student Paper Prize](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Applied-Probability/Best-Student-Paper-Prize).
-* [October] I gave an invited talk at the _Theoretical Advances in Networks, Dynamics and Inference_ session at the  [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) in Seattle, WA. 
-* [July] I presented our work "[Robust Graph Matching when Nodes are Corrupt](https://proceedings.mlr.press/v235/ameen24a.html)" at [ICML](https://icml.cc/Conferences/2024) in Vienna, Austria.
-* [July] I presented a poster on _Exact Graph Matching with Multiple Graphs_ at "[Stochastic Networks Conference](https://www.kth.se/sn2024/stochastic-networks-conference-1.1294028)" in Stockholm, Sweden. 
+* [October] I gave an invited talk at the _Theoretical Advances in Networks, Dynamics and Inference_ session at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) in Seattle, WA.
+* [July] I presented our work [Robust Graph Matching when Nodes are Corrupt](https://proceedings.mlr.press/v235/ameen24a.html) at [ICML](https://icml.cc/Conferences/2024) in Vienna, Austria.
+* [July] I presented a poster on _Exact Graph Matching with Multiple Graphs_ at the [Stochastic Networks Conference](https://www.kth.se/sn2024/stochastic-networks-conference-1.1294028) in Stockholm, Sweden.
 * [April] I received the [Robert T. Chien Memorial Award](https://ece.illinois.edu/academics/grad/awards/chien) from the ECE department at UIUC.
 * [April] I was selected as a [MAVIS Future Faculty Fellow](https://mavis.grainger.illinois.edu/) for the academic year 2024-25.
-* [April] I presented a poster on Exact Graph Matching with Multiple Graphs at the IDEAL [Workshop on Learning in Networks: Discovering Hidden Structure](https://www.ideal-institute.org/2024/01/31/workshop-on-learning-in-networks-discovering-hidden-structure/) in Evanston, IL.
+* [April] I presented a poster on _Exact Graph Matching with Multiple Graphs_ at the IDEAL [Workshop on Learning in Networks: Discovering Hidden Structure](https://www.ideal-institute.org/2024/01/31/workshop-on-learning-in-networks-discovering-hidden-structure/) in Evanston, IL.
 * [February] I presented a poster on _Robust Graph Matching_ at the CSL Student Conference at UIUC.
