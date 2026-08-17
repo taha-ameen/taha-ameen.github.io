@@ -24,7 +24,7 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 * [August] New paper [Converse bounds for multiple graph alignment and correlation detection based on last matching](https://arxiv.org/abs/2608.14450) on arXiv. Joint work with Bruce Hajek.
 * [July] Our paper [Detecting planted structure in circular data](https://arxiv.org/abs/2601.05993), joint work with Bruce Hajek, was accepted to IEEE Transactions on Information Theory.
 * [July] New paper [Sharp Detection Threshold for Correlation among Multiple Unlabeled Gaussian Networks](https://arxiv.org/abs/2504.16279) on arXiv. Joint work with Bruce Hajek.
-* [July] I will present our work [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) at the MSOM Conference in Boston, MA and the RMP Conference in Ann Arbor, MI.
+* [July] I presented our work [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) at the MSOM Conference in Boston, MA and the RMP Conference in Ann Arbor, MI.
 * [June] Our paper [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://arxiv.org/pdf/2405.12293), joint work with Bruce Hajek, was accepted to Operations Research.
 * [June] I received the Outstanding Student Poster Award at the Stochastic Networks Conference.
 * [May] I defended my Ph.D. thesis!
