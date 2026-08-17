@@ -20,6 +20,8 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 <h1 style="color:#191970;"> Updates </h1>
 
 <h3 style="color:#E84A27;"> 2026 </h3>
+* [August] New paper [Estimating Community Boundaries in Geometric Random Graphs](https://arxiv.org/abs/2608.12054) on arXiv. Joint work with Neeladri Maitra.
+* [August] New paper [Converse bounds for multiple graph alignment and correlation detection based on last matching](https://arxiv.org/abs/2608.14450) on arXiv. Joint work with Bruce Hajek.
 * [July] Our paper [Detecting planted structure in circular data](https://arxiv.org/abs/2601.05993), joint work with Bruce Hajek, was accepted to IEEE Transactions on Information Theory.
 * [July] New paper [Sharp Detection Threshold for Correlation among Multiple Unlabeled Gaussian Networks](https://arxiv.org/abs/2504.16279) on arXiv. Joint work with Bruce Hajek.
 * [July] I will present our work [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) at the MSOM Conference in Boston, MA and the RMP Conference in Ann Arbor, MI.
