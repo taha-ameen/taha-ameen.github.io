@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign, advised by Prof. [Bruce Hajek](https://hajek.ece.illinois.edu/). 
+I am a postdoctoral researcher in the School of Computer Science at Carnegie Mellon University, advised by Prof. [Weina Wang](https://www.cs.cmu.edu/~weinaw/). I received my Ph.D. in electrical engineering from the University of Illinois Urbana-Champaign in August 2026, where I was very fortunate to be advised by Prof. [Bruce Hajek](https://hajek.ece.illinois.edu/).
 
 
 My research deals with inference, optimization, and decision-making in stochastic networks and matching systems. My PhD work is on problems in **statistical inference** (graph matching and detection of planted structures), **resource allocation in matching markets** (spatial flexibility and multi-type interactions), and **network robustness** (graph matching under adversarial corruption, security of blockchain protocols under message loss). My work has been recognized through multiple departmental fellowships and paper awards, including the [Jack Wolf ISIT Best Student Paper Award (2025)](https://www.itsoc.org/news/2025-jack-keil-wolf-isit-student-paper-award-recipients-named) and the Outstanding Student Poster Award at Stochastic Networks Conference (2026); I was also a finalist for the [IISA Best Student Paper Award (2025)](https://www.intindstat.org/public/conference2025/images/pgrmbook.pdf#page=52.64), and the [INFORMS APS Best Student Paper Award (2024)](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Applied-Probability/Best-Student-Paper-Prize).
@@ -16,10 +16,13 @@ I graduated with B.S. degrees in Electrical Engineering and Mathematics from the
 
 Outside of work, I enjoy reading, traveling and hiking. I particularly appreciate the US National Parks and aspire to eventually explore all 63!
 
+**I am on the 2026–27 academic job market.**
+
 
 <h1 style="color:#191970;"> Updates </h1>
 
-<h3 style="color:#E84A27;"> 2026 </h3>
+<h3 style="color:#C41230;"> 2026 </h3>
+* [August] Our paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) was selected as a finalist for the 2026 MSOM Best Student Paper Competition. I will present this work at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/).
 * [August] New paper [Converse bounds for multiple graph alignment and correlation detection based on last matching](https://arxiv.org/abs/2608.14450) on arXiv. Joint work with Bruce Hajek.
 * [August] New paper [Estimating Community Boundaries in Geometric Random Graphs](https://arxiv.org/abs/2608.12054) on arXiv. Joint work with Neeladri Maitra.
 * [July] Our paper [Detecting planted structure in circular data](https://arxiv.org/abs/2601.05993), joint work with Bruce Hajek, was accepted to IEEE Transactions on Information Theory.
@@ -34,7 +37,7 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 * [January] New paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) on arXiv. Joint work with Flore Sentenac and Sophie Yu.
 * [January] New paper [Detecting planted structure in circular data](https://arxiv.org/pdf/2601.05993) on arXiv. Joint work with Bruce Hajek.
 
-<h3 style="color:#E84A27;"> 2025 </h3>
+<h3 style="color:#C41230;"> 2025 </h3>
 * [October] I presented our work [Aligning Multiple Inhomogeneous Random Graphs: Fundamental Limits of Exact Recovery](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2716) at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in Atlanta, GA.
 * [October] I attended the [Cornell ORIE Young Researchers Workshop](https://www.engineering.cornell.edu/orie/young-researchers-workshop/), Oct 8-10 in Ithaca, NY.
 * [July] I received the Jack Keil Wolf ISIT Student Paper Award for the paper [Exact random graph matching with multiple graphs](https://www.itsoc.org/honors/wolf-award?__cf_chl_f_tk=AgIfNfaQx18NL0NKxAHz2ePis8E0.V1qnAflWlFMjrg-1783036274-1.0.1.1-btLxEqq5Cy6xifgOdMSHa_5pe5pAtS_YBDLKrqCGoII).
@@ -43,7 +46,7 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 * [May] I received the [A.R. "Buck" Knight Fellowship](https://ece.illinois.edu/academics/grad/fellowships/knight) from the ECE department at UIUC.
 * [April] Two papers, [Exact random graph matching with multiple graphs](https://arxiv.org/abs/2405.12293) and [Detecting correlation between multiple Gaussian networks](https://arxiv.org/abs/2504.16279), were accepted to ISIT '25.
 
-<h3 style="color:#E84A27;"> 2024 </h3>
+<h3 style="color:#C41230;"> 2024 </h3>
 * [October] I was a finalist for the INFORMS Applied Probability Society's [Best Student Paper Prize](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Applied-Probability/Best-Student-Paper-Prize).
 * [October] I gave an invited talk at the _Theoretical Advances in Networks, Dynamics and Inference_ session at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) in Seattle, WA.
 * [July] I presented our work [Robust Graph Matching when Nodes are Corrupt](https://proceedings.mlr.press/v235/ameen24a.html) at [ICML](https://icml.cc/Conferences/2024) in Vienna, Austria.
