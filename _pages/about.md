@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in the School of Computer Science at Carnegie Mellon University, advised by Prof. [Weina Wang](https://www.cs.cmu.edu/~weinaw/). I received my PhD in electrical engineering from the University of Illinois Urbana-Champaign in August 2026, where I was very fortunate to be advised by Prof. [Bruce Hajek](https://hajek.ece.illinois.edu/).
+I am a postdoctoral fellow in the School of Computer Science at Carnegie Mellon University, advised by Prof. [Weina Wang](https://www.cs.cmu.edu/~weinaw/). I received my PhD in electrical engineering from the University of Illinois Urbana-Champaign in August 2026, where I was very fortunate to be advised by Prof. [Bruce Hajek](https://hajek.ece.illinois.edu/). My thesis is available [here](/files/PhD_Thesis.pdf).
 
 
 My research deals with inference, optimization, and decision-making in stochastic networks and matching systems. I also collaborate with Prof. [Sophie Yu](https://sophieyu.me/) on the design of flexibility structures in matching markets. My PhD work focused on problems in **statistical inference** (graph matching and detection of planted structures), **resource allocation in matching markets** (spatial flexibility and multi-type interactions), and **network robustness** (graph matching under adversarial corruption, security of blockchain protocols under message loss).
@@ -22,6 +22,7 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 <h1 style="color:#191970;"> Updates </h1>
 
 <h3 style="color:#C41230;"> 2026 </h3>
+* [October] New paper [Distance flexibility in spatial matching: the value of concentration](https://arxiv.org/abs/2609.36361) on arXiv. Joint work with Sophie Yu.
 * [August] Our paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) was selected as a finalist for the 2026 INFORMS MSOM Student Paper Competition. I will present this work at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/).
 * [August] New paper [Converse bounds for multiple graph alignment and correlation detection based on last matching](https://arxiv.org/abs/2608.14450) on arXiv. Joint work with Bruce Hajek.
 * [August] New paper [Estimating Community Boundaries in Geometric Random Graphs](https://arxiv.org/abs/2608.12054) on arXiv. Joint work with Neeladri Maitra.
