@@ -10,13 +10,13 @@ redirect_from:
 I am a postdoctoral fellow in the School of Computer Science at Carnegie Mellon University, advised by Prof. [Weina Wang](https://www.cs.cmu.edu/~weinaw/). I received my PhD in electrical engineering from the University of Illinois Urbana-Champaign in August 2026, where I was very fortunate to be advised by Prof. [Bruce Hajek](https://hajek.ece.illinois.edu/). My thesis is available [here](/files/PhD_Thesis.pdf).
 
 
-My research deals with inference, optimization, and decision-making in stochastic networks and matching systems. I also collaborate with Prof. [Sophie Yu](https://sophieyu.me/) on the design of flexibility structures in matching markets. My PhD work focused on problems in **statistical inference** (graph matching and detection of planted structures), **resource allocation in matching markets** (spatial flexibility and multi-type interactions), and **network robustness** (graph matching under adversarial corruption, security of blockchain protocols under message loss).
+My research deals with inference, optimization, and decision-making in stochastic networks and matching systems. I also collaborate with Prof. [Sophie Yu](https://sophieyu.me/) on the design of flexibility structures in matching markets. My PhD work focused on problems in statistical inference (graph matching and detection of planted structures), resource allocation in matching markets (spatial flexibility and multi-type interactions), and network robustness (graph matching under adversarial corruption, security of blockchain protocols under message loss).
 
 My work has been recognized through multiple departmental fellowships and paper awards, including the [Jack Wolf ISIT Best Student Paper Award (2025)](https://www.itsoc.org/news/2025-jack-keil-wolf-isit-student-paper-award-recipients-named) and the [Outstanding Student Poster Award at Stochastic Networks Conference (2026)](https://www.chicagobooth.edu/-/media/project/chicago-booth/events/faculty-events/stochastic-networks-conference/2026-poster-awards.pdf); I was also a finalist for the [2026 INFORMS MSOM Student Paper Competition](https://connect.informs.org/discussion/2026-msom-student-paper-competition-finalists-announcement), the [IISA Best Student Paper Award (2025)](https://www.intindstat.org/public/conference2025/images/pgrmbook.pdf#page=52.64), and the [INFORMS APS Best Student Paper Award (2024)](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Applied-Probability/Best-Student-Paper-Prize).
 
 Outside of work, I enjoy reading, traveling and hiking. I particularly appreciate the US National Parks and aspire to eventually explore all 63!
 
-**I am on the 2026–27 academic job market.**
+<strong style="color:#C41230;">I am on the 2026–27 academic job market.</strong>
 
 
 <h1 style="color:#191970;"> Updates </h1>
