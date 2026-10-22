@@ -22,6 +22,7 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 <h1 style="color:#191970;"> Updates </h1>
 
 <h3 style="color:#C41230;"> 2026 </h3>
+* [October] I gave a talk at CMU Theory Lunch on my work on alignment and testing of multiple correlated graphs. [[Video](https://www.youtube.com/watch?v=-iAGzEiHw-E)]
 * [October] New paper [Distance flexibility in spatial matching: the value of concentration](https://arxiv.org/abs/2609.36361) on arXiv. Joint work with Sophie Yu.
 * [August] Our paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) was selected as a finalist for the 2026 INFORMS MSOM Student Paper Competition. I will present this work at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/).
 * [August] New paper [Converse bounds for multiple graph alignment and correlation detection based on last matching](https://arxiv.org/abs/2608.14450) on arXiv. Joint work with Bruce Hajek.
