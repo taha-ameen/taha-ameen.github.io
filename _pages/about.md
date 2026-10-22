@@ -22,6 +22,23 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
 <h1 style="color:#191970;"> Updates </h1>
 
 <h3 style="color:#C41230;"> 2026 </h3>
+
+<aside aria-label="November 2026 INFORMS presentations" style="margin:1em 0 1.5em; padding:1em 1.2em; background-color:rgba(179,27,27,0.055); border:1px solid rgba(179,27,27,0.18); border-left:4px solid #B31B1B; border-radius:4px;">
+  <p style="margin:0 0 1em;"><strong style="color:#B31B1B;">[November]</strong> I will present my paper &ldquo;<a href="https://arxiv.org/pdf/2601.13426">A Uniformity Principle for Spatial Matching</a>&rdquo; at the INFORMS Annual Meeting in San Francisco in these sessions:</p>
+  <ul style="list-style:none; margin:0; padding:0;">
+    <li style="margin:0; padding:0;">
+      <strong>Sunday, November 1 &middot; 1:15&ndash;1:30 p.m.</strong><br>
+      <span style="color:#B31B1B;">[SC13]</span> MSOM Student Paper Competition I<br>
+      <span style="font-size:0.95em;">Room Moscone South-151 (Upper Mezzanine)</span>
+    </li>
+    <li style="margin:0.85em 0 0; padding:0.85em 0 0; border-top:1px solid rgba(179,27,27,0.18);">
+      <strong>Tuesday, November 3 &middot; 8:30&ndash;8:45 a.m.</strong><br>
+      <span style="color:#B31B1B;">[TA 01]</span> Recent Advances in Dynamic Matching<br>
+      <span style="font-size:0.95em;">Room Moscone South-50 (Lower Mezzanine)</span>
+    </li>
+  </ul>
+</aside>
+
 * [October] I gave a talk at CMU Theory Lunch on my work on alignment and testing of multiple correlated graphs. [[Video](https://www.youtube.com/watch?v=-iAGzEiHw-E)]
 * [October] New paper [Distance flexibility in spatial matching: the value of concentration](https://arxiv.org/abs/2609.36361) on arXiv. Joint work with Sophie Yu.
 * [August] Our paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) was selected as a finalist for the 2026 INFORMS MSOM Student Paper Competition. I will present this work at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/).
