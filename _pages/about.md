@@ -14,7 +14,7 @@ My research deals with inference, optimization, and decision-making in stochasti
 
 My work has been recognized through multiple departmental fellowships and paper awards, including the [Jack Wolf ISIT Best Student Paper Award (2025)](https://www.itsoc.org/news/2025-jack-keil-wolf-isit-student-paper-award-recipients-named) and the [Outstanding Student Poster Award at Stochastic Networks Conference (2026)](https://www.chicagobooth.edu/-/media/project/chicago-booth/events/faculty-events/stochastic-networks-conference/2026-poster-awards.pdf); I was also a finalist for the [2026 INFORMS MSOM Student Paper Competition](https://connect.informs.org/discussion/2026-msom-student-paper-competition-finalists-announcement), the [IISA Best Student Paper Award (2025)](https://www.intindstat.org/public/conference2025/images/pgrmbook.pdf#page=52.64), and the [INFORMS APS Best Student Paper Award (2024)](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Applied-Probability/Best-Student-Paper-Prize).
 
-Outside of work, I enjoy reading, traveling and hiking. I particularly appreciate the US National Parks and aspire to eventually explore all 63!
+Outside of work, I enjoy reading, traveling and hiking. I particularly appreciate the US National Parks and aspire to eventually explore all 64.
 
 <strong style="color:#C41230;">I am on the 2026–27 academic job market.</strong>
 
@@ -39,8 +39,10 @@ Outside of work, I enjoy reading, traveling and hiking. I particularly appreciat
   </ul>
 </aside>
 
+* [October] New paper [Approaching Optimal Scaling of Queue Size for an Input-Queued Switch](https://arxiv.org/abs/2610.37521) on arXiv. Joint work with Weina Wang.
 * [October] I gave a talk at CMU Theory Lunch on my work on alignment and testing of multiple correlated graphs. [[Video](https://www.youtube.com/watch?v=-iAGzEiHw-E)]
 * [October] New paper [Distance flexibility in spatial matching: the value of concentration](https://arxiv.org/abs/2609.36361) on arXiv. Joint work with Sophie Yu.
+* [September] I started as a postdoc at CMU!
 * [August] Our paper [A uniformity principle for spatial matching](https://arxiv.org/pdf/2601.13426) was selected as a finalist for the 2026 INFORMS MSOM Student Paper Competition. I will present this work at the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/).
 * [August] New paper [Converse bounds for multiple graph alignment and correlation detection based on last matching](https://arxiv.org/abs/2608.14450) on arXiv. Joint work with Bruce Hajek.
 * [August] New paper [Estimating Community Boundaries in Geometric Random Graphs](https://arxiv.org/abs/2608.12054) on arXiv. Joint work with Neeladri Maitra.
